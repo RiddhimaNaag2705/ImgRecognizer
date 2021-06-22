@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(216, 147, 159);
+    color: white;
+}
+.heading{
+    width: 80%;
+}
+#webcam{
+    border-width: 3px;
+    border-style: dashed;
+    border-radius: 10px;
+    border-color: black;
+    width: 350px;
+    height: 300px;
+}
+.objectNames{
+    color: black;
+}
